@@ -1,5 +1,5 @@
 - name: ping the server
-  hosts: roboshop-frontend
+  hosts: roboshop_frontend
   become: yes
   tasks:
     - name: ping the server
