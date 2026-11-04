@@ -12,4 +12,4 @@ hostnames:
 
 keyed_groups:
   - key: tags.Name
-    # separator:
+    separator: ""
